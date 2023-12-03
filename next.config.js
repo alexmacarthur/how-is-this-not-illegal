@@ -15,4 +15,6 @@ const nextConfig = {
   },
 };
 
+console.log("HI");
+
 module.exports = nextConfig;
